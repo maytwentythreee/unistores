@@ -1,0 +1,283 @@
+{
+  "storeInfo": {
+    "title": "'norway' myrient nds library",
+    "author": "maytwentythreee",
+    "description": "",
+    "url": "https://unistores.maytwentythreee.xyz/nds.may23.norway.unistore",
+    "file": "nds.may23.norway.unistore",
+    "revision": 20260213,
+    "version": 3
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "Flunkene Pirater",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Flunkene Pirater (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Flunkene%20Pirater%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Josefine - Hotell Skrotenborg",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Josefine - Hotell Skrotenborg (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Josefine%20-%20Hotell%20Skrotenborg%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Josefine - Jungelskatten",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Josefine - Jungelskatten (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Josefine%20-%20Jungelskatten%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Josefine Skolehjelp - Engelsk - Mystery in London",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Josefine Skolehjelp - Engelsk - Mystery in London (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Josefine%20Skolehjelp%20-%20Engelsk%20-%20Mystery%20in%20London%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Josefine Skolehjelp - Laer a stave - Staving eller Kaos",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Josefine Skolehjelp - Laer a stave - Staving eller Kaos (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Josefine%20Skolehjelp%20-%20Laer%20a%20stave%20-%20Staving%20eller%20Kaos%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Josefine Skolehjelp - Matematikk - Taake i Tallheimen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Josefine Skolehjelp - Matematikk - Taake i Tallheimen (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Josefine%20Skolehjelp%20-%20Matematikk%20-%20Taake%20i%20Tallheimen%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Josefine Skolehjelp - Norsk - Kaos i Kommaby",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Josefine Skolehjelp - Norsk - Kaos i Kommaby (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Josefine%20Skolehjelp%20-%20Norsk%20-%20Kaos%20i%20Kommaby%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Josefine og Droemmespeilet",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Josefine og Droemmespeilet (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Josefine%20og%20Droemmespeilet%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Sofie - Josefines Lillesoester - Hoensefoetter og Guleroetter",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Sofie - Josefines Lillesoester - Hoensefoetter og Guleroetter (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Sofie%20-%20Josefines%20Lillesoester%20-%20Hoensefoetter%20og%20Guleroetter%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Sofie - Josefines Lillesoester - Syng, Lek og Laer",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Sofie - Josefines Lillesoester - Syng, Lek og Laer (Norway).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Sofie%20-%20Josefines%20Lillesoester%20-%20Syng%2C%20Lek%20og%20Laer%20%28Norway%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    }
+  ]
+}

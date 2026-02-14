@@ -1,0 +1,94 @@
+{
+  "storeInfo": {
+    "title": "'mexico' myrient nds library",
+    "author": "maytwentythreee",
+    "description": "",
+    "url": "https://unistores.maytwentythreee.xyz/nds.may23.mexico.unistore",
+    "file": "nds.may23.mexico.unistore",
+    "revision": 20260213,
+    "version": 3
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "Mi Experto en Frances - Mejora Tu Vocabulario Frances",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mi Experto en Frances - Mejora Tu Vocabulario Frances (Mexico).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mi%20Experto%20en%20Frances%20-%20Mejora%20Tu%20Vocabulario%20Frances%20%28Mexico%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mi Experto en Ingles - Mejora Tu Vocabulario Ingles",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mi Experto en Ingles - Mejora Tu Vocabulario Ingles (Mexico).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mi%20Experto%20en%20Ingles%20-%20Mejora%20Tu%20Vocabulario%20Ingles%20%28Mexico%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mi Experto en Vocabulario",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mi Experto en Vocabulario (Mexico).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mi%20Experto%20en%20Vocabulario%20%28Mexico%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    }
+  ]
+}

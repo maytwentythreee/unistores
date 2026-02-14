@@ -1,0 +1,5227 @@
+{
+  "storeInfo": {
+    "title": "'france' myrient nds library",
+    "author": "maytwentythreee",
+    "description": "",
+    "url": "https://unistores.maytwentythreee.xyz/nds.may23.france.unistore",
+    "file": "nds.may23.france.unistore",
+    "revision": 20260213,
+    "version": 3
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "007 - Blood Stone",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "007 - Blood Stone (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/007%20-%20Blood%20Stone%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "1 contre 100",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "1 contre 100 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/1%20contre%20100%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "100 Livres Classiques",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "100 Livres Classiques (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/100%20Livres%20Classiques%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "1000 Bornes - Coups-Fourres et Courses Folles!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "1000 Bornes - Coups-Fourres et Courses Folles! (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/1000%20Bornes%20-%20Coups-Fourres%20et%20Courses%20Folles%21%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "50 Jeux Incontournables",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNl",
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "50 Jeux Incontournables (France) (En,Fr,De,Es,It,Nl) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/50%20Jeux%20Incontournables%20%28France%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "50 Jeux Incontournables",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNl"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "50 Jeux Incontournables (France) (En,Fr,De,Es,It,Nl).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/50%20Jeux%20Incontournables%20%28France%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "7 Wonders - Treasures of Seven",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "FrNl"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "7 Wonders - Treasures of Seven (France) (Fr,Nl).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/7%20Wonders%20-%20Treasures%20of%20Seven%20%28France%29%20%28Fr%2CNl%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Actua Pool",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Actua Pool (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Actua%20Pool%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Adi l'Entraineur - Mathematiques, Francais 6e & 5e",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Adi l'Entraineur - Mathematiques, Francais 6e & 5e (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Adi%20l%27Entraineur%20-%20Mathematiques%2C%20Francais%206e%20%26%205e%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Adi l'Entraineur - Mathematiques, Francais CE1-CE2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Adi l'Entraineur - Mathematiques, Francais CE1-CE2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Adi%20l%27Entraineur%20-%20Mathematiques%2C%20Francais%20CE1-CE2%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Adi l'Entraineur - Mathematiques, Francais CM1-CM2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Adi l'Entraineur - Mathematiques, Francais CM1-CM2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Adi%20l%27Entraineur%20-%20Mathematiques%2C%20Francais%20CM1-CM2%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Adi l'Entraineur - Objectif Anglais",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Adi l'Entraineur - Objectif Anglais (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Adi%20l%27Entraineur%20-%20Objectif%20Anglais%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Adibou - Je Joue a Lire et a Compter",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Adibou - Je Joue a Lire et a Compter (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Adibou%20-%20Je%20Joue%20a%20Lire%20et%20a%20Compter%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Adibou - Je Joue avec les Lettres et les Nombres",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Adibou - Je Joue avec les Lettres et les Nombres (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Adibou%20-%20Je%20Joue%20avec%20les%20Lettres%20et%20les%20Nombres%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Adibou Aventure - J'Explore le Corps Humain",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Adibou Aventure - J'Explore le Corps Humain (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Adibou%20Aventure%20-%20J%27Explore%20le%20Corps%20Humain%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Allez Raconte",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Allez Raconte (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Allez%20Raconte%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ankh - La Malediction du Roi Scarabee",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFr"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Ankh - La Malediction du Roi Scarabee (France) (En,Fr).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Ankh%20-%20La%20Malediction%20du%20Roi%20Scarabee%20%28France%29%20%28En%2CFr%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Apprends avec Pokemon A la Conquete du Clavier",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Apprends avec Pokemon A la Conquete du Clavier (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Apprends%20avec%20Pokemon%20A%20la%20Conquete%20du%20Clavier%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Au Pays des PooYoos - Activites d'Eveil",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Au Pays des PooYoos - Activites d'Eveil (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Au%20Pays%20des%20PooYoos%20-%20Activites%20d%27Eveil%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Aventures de May, Les - L'Etrange Disparition",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Aventures de May, Les - L'Etrange Disparition (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Aventures%20de%20May%2C%20Les%20-%20L%27Etrange%20Disparition%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Aventures de T'choupi a l'Ecole, Les",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Aventures de T'choupi a l'Ecole, Les (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Aventures%20de%20T%27choupi%20a%20l%27Ecole%2C%20Les%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bee Movie - Le Jeu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bee Movie - Le Jeu (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bee%20Movie%20-%20Le%20Jeu%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bescherelle Pratique, Le",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bescherelle Pratique, Le (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bescherelle%20Pratique%2C%20Le%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bienvenue Chez les Ch'tis - Le Jeu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bienvenue Chez les Ch'tis - Le Jeu (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bienvenue%20Chez%20les%20Ch%27tis%20-%20Le%20Jeu%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Blue Dragon - Awakened Shadow",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Blue Dragon - Awakened Shadow (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Blue%20Dragon%20-%20Awakened%20Shadow%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Boule & Bill - Vive les Vacances!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Boule & Bill - Vive les Vacances! (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Boule%20%26%20Bill%20-%20Vive%20les%20Vacances%21%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bratz - Forever Diamondz",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bratz - Forever Diamondz (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bratz%20-%20Forever%20Diamondz%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bravissi-Mots",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bravissi-Mots (France) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bravissi-Mots%20%28France%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Brico Utile",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Brico Utile (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Brico%20Utile%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Build-A-Bear Workshop - Ou Se Font les Meilleurs Amis",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Build-A-Bear Workshop - Ou Se Font les Meilleurs Amis (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Build-A-Bear%20Workshop%20-%20Ou%20Se%20Font%20les%20Meilleurs%20Amis%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "C'Est Pas Sorcier - Les Fabuleux Defis de Fred & Jamy",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "C'Est Pas Sorcier - Les Fabuleux Defis de Fred & Jamy (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/C%27Est%20Pas%20Sorcier%20-%20Les%20Fabuleux%20Defis%20de%20Fred%20%26%20Jamy%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cahier de Vacances pour Adultes",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cahier de Vacances pour Adultes (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cahier%20de%20Vacances%20pour%20Adultes%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cahier de Vacances pour Adultes 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cahier de Vacances pour Adultes 2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cahier%20de%20Vacances%20pour%20Adultes%202%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Call of Duty - Black Ops",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Call of Duty - Black Ops (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Call%20of%20Duty%20-%20Black%20Ops%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Call of Duty - Modern Warfare - Mobilized",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Call of Duty - Modern Warfare - Mobilized (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Call%20of%20Duty%20-%20Modern%20Warfare%20-%20Mobilized%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Call of Duty - Modern Warfare 3 - Defiance",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Call of Duty - Modern Warfare 3 - Defiance (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Call%20of%20Duty%20-%20Modern%20Warfare%203%20-%20Defiance%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Call of Duty 4 - Modern Warfare",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Call of Duty 4 - Modern Warfare (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Call%20of%20Duty%204%20-%20Modern%20Warfare%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Carte au Tresor, La - Le Jeu Video Officiel",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Carte au Tresor, La - Le Jeu Video Officiel (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Carte%20au%20Tresor%2C%20La%20-%20Le%20Jeu%20Video%20Officiel%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cedric - L'Anniversaire de Chen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cedric - L'Anniversaire de Chen (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cedric%20-%20L%27Anniversaire%20de%20Chen%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Chiffres et des Lettres, Des - L'Entrainement Cerebral Maximum!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Chiffres et des Lettres, Des - L'Entrainement Cerebral Maximum! (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Chiffres%20et%20des%20Lettres%2C%20Des%20-%20L%27Entrainement%20Cerebral%20Maximum%21%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Club Penguin - Force d'Elite",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Club Penguin - Force d'Elite (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Club%20Penguin%20-%20Force%20d%27Elite%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Code de la Route",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Code de la Route (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Code%20de%20la%20Route%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Code de la Route - Edition 2008",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Code de la Route - Edition 2008 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Code%20de%20la%20Route%20-%20Edition%202008%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Code de la Route - Edition Deluxe",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Code de la Route - Edition Deluxe (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Code%20de%20la%20Route%20-%20Edition%20Deluxe%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Code de la Route DS",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Code de la Route DS (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Code%20de%20la%20Route%20DS%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Code de la Route, Le",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Code de la Route, Le (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Code%20de%20la%20Route%2C%20Le%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Code de la Route, Le - Moto et BSR",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Code de la Route, Le - Moto et BSR (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Code%20de%20la%20Route%2C%20Le%20-%20Moto%20et%20BSR%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cosmopolitan - Total Relooking",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cosmopolitan - Total Relooking (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cosmopolitan%20-%20Total%20Relooking%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cuisine Party",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cuisine Party (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cuisine%20Party%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Culture Generale pour les Nuls, La",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Culture Generale pour les Nuls, La (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Culture%20Generale%20pour%20les%20Nuls%2C%20La%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Deco Tendances",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Deco Tendances (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Deco%20Tendances%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Deviens Miss France",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Deviens Miss France (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Deviens%20Miss%20France%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Dr. Jekyll & Mr. Hyde - Enigmes & Objets Caches",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Dr. Jekyll & Mr. Hyde - Enigmes & Objets Caches (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Dr.%20Jekyll%20%26%20Mr.%20Hyde%20-%20Enigmes%20%26%20Objets%20Caches%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "E=M6 Defi Cerebral",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "E=M6 Defi Cerebral (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/E%3DM6%20Defi%20Cerebral%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Elite Beat Agents",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Elite Beat Agents (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Elite%20Beat%20Agents%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Entraineur Cerebral, L' - Kids",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Entraineur Cerebral, L' - Kids (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Entraineur%20Cerebral%2C%20L%27%20-%20Kids%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Entraineur Cerebral, L' - Logique",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Entraineur Cerebral, L' - Logique (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Entraineur%20Cerebral%2C%20L%27%20-%20Logique%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Entraineur Cerebral, L' - Perception",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Entraineur Cerebral, L' - Perception (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Entraineur%20Cerebral%2C%20L%27%20-%20Perception%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Equitation - Galops 1 a 4",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Equitation - Galops 1 a 4 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Equitation%20-%20Galops%201%20a%204%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Equitation - Galops 1 a 7",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Equitation - Galops 1 a 7 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Equitation%20-%20Galops%201%20a%207%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fort Boyard - Casse-tetes & Enigmes",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Fort Boyard - Casse-tetes & Enigmes (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Fort%20Boyard%20-%20Casse-tetes%20%26%20Enigmes%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fort Boyard - Le Jeu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Fort Boyard - Le Jeu (France) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Fort%20Boyard%20-%20Le%20Jeu%20%28France%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fort Boyard - Le Jeu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Fort Boyard - Le Jeu (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Fort%20Boyard%20-%20Le%20Jeu%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "GoldenEye - Au Service du Mal",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "GoldenEye - Au Service du Mal (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/GoldenEye%20-%20Au%20Service%20du%20Mal%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "GoldenEye 007",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "GoldenEye 007 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/GoldenEye%20007%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hello Kitty - Daily",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hello Kitty - Daily (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hello%20Kitty%20-%20Daily%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Histoire de France pour les Nuls, L'",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Histoire de France pour les Nuls, L' (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Histoire%20de%20France%20pour%20les%20Nuls%2C%20L%27%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hoshigami",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hoshigami (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hoshigami%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Inazuma Eleven",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Inazuma Eleven (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Inazuma%20Eleven%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Inazuma Eleven 2 - Tempete de Feu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Inazuma Eleven 2 - Tempete de Feu (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Inazuma%20Eleven%202%20-%20Tempete%20de%20Feu%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Inazuma Eleven 2 - Tempete de Glace",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Inazuma Eleven 2 - Tempete de Glace (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Inazuma%20Eleven%202%20-%20Tempete%20de%20Glace%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Incollables CE1-CE2, Les",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Incollables CE1-CE2, Les (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Incollables%20CE1-CE2%2C%20Les%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Incollables CM1-CM2, Les",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Incollables CM1-CM2, Les (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Incollables%20CM1-CM2%2C%20Les%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Incollables CP, Les",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Incollables CP, Les (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Incollables%20CP%2C%20Les%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Intervilles - Fais Gagner Ta Ville! - Le Jeu Officiel",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Intervilles - Fais Gagner Ta Ville! - Le Jeu Officiel (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Intervilles%20-%20Fais%20Gagner%20Ta%20Ville%21%20-%20Le%20Jeu%20Officiel%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Jewel Quest - Solitaire",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Jewel Quest - Solitaire (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Jewel%20Quest%20-%20Solitaire%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Kid Paddle - Lost in the Game",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Kid Paddle - Lost in the Game (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Kid%20Paddle%20-%20Lost%20in%20the%20Game%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Koh-Lanta",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Koh-Lanta (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Koh-Lanta%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Koh-Lanta - Survie dans la Jungle!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Koh-Lanta - Survie dans la Jungle! (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Koh-Lanta%20-%20Survie%20dans%20la%20Jungle%21%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Kung Fu Panda",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Kung Fu Panda (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Kung%20Fu%20Panda%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "LEGO Legends of Chima - Laval's Journey",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNlDa"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "LEGO Legends of Chima - Laval's Journey (France) (En,Fr,De,Es,It,Nl,Da).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/LEGO%20Legends%20of%20Chima%20-%20Laval%27s%20Journey%20%28France%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "LEGO Marvel Super Heroes - L'Univers en Peril",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNlDa"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "LEGO Marvel Super Heroes - L'Univers en Peril (France) (En,Fr,De,Es,It,Nl,Da).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/LEGO%20Marvel%20Super%20Heroes%20-%20L%27Univers%20en%20Peril%20%28France%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "LEGO The Lord of the Rings",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNlDa"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "LEGO The Lord of the Rings (France) (En,Fr,De,Es,It,Nl,Da).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/LEGO%20The%20Lord%20of%20the%20Rings%20%28France%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lapin Malin - J'Apprends a Lire et a Ecrire",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lapin Malin - J'Apprends a Lire et a Ecrire (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lapin%20Malin%20-%20J%27Apprends%20a%20Lire%20et%20a%20Ecrire%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lecons de Cuisine - Qu'Allons-Nous Manger Aujourd'hui",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lecons de Cuisine - Qu'Allons-Nous Manger Aujourd'hui (France) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lecons%20de%20Cuisine%20-%20Qu%27Allons-Nous%20Manger%20Aujourd%27hui%20%28France%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lecons de Cuisine - Qu'Allons-Nous Manger Aujourd'hui",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lecons de Cuisine - Qu'Allons-Nous Manger Aujourd'hui (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lecons%20de%20Cuisine%20-%20Qu%27Allons-Nous%20Manger%20Aujourd%27hui%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lettriq - Evaluez Votre QI Lettrique",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lettriq - Evaluez Votre QI Lettrique (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lettriq%20-%20Evaluez%20Votre%20QI%20Lettrique%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Looney Tunes - Duck Amuck",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Looney Tunes - Duck Amuck (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Looney%20Tunes%20-%20Duck%20Amuck%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "MX vs. ATV Extreme Limite",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "MX vs. ATV Extreme Limite (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/MX%20vs.%20ATV%20Extreme%20Limite%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Madagascar",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Madagascar (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Madagascar%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Madagascar 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Madagascar 2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Madagascar%202%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Malediction de Toutankhamon, La - Enigmes & Objets Caches",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Malediction de Toutankhamon, La - Enigmes & Objets Caches (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Malediction%20de%20Toutankhamon%2C%20La%20-%20Enigmes%20%26%20Objets%20Caches%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mes Amis Disney",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mes Amis Disney (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mes%20Amis%20Disney%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Methode Boscher - La Journee des Tout Petits",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Methode Boscher - La Journee des Tout Petits (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Methode%20Boscher%20-%20La%20Journee%20des%20Tout%20Petits%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mon Coach Personnel - J'Ameliore Mon Anglais",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mon Coach Personnel - J'Ameliore Mon Anglais (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Anglais%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mon Coach Personnel - J'Ameliore Mon Espagnol",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mon Coach Personnel - J'Ameliore Mon Espagnol (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Espagnol%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mon Coach Personnel - J'Enrichis Mon Vocabulaire",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mon Coach Personnel - J'Enrichis Mon Vocabulaire (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mon%20Coach%20Personnel%20-%20J%27Enrichis%20Mon%20Vocabulaire%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mon Coach Personnel - Mes Recettes Plaisir et Ligne",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mon Coach Personnel - Mes Recettes Plaisir et Ligne (France) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mon%20Coach%20Personnel%20-%20Mes%20Recettes%20Plaisir%20et%20Ligne%20%28France%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mon Premier Bescherelle",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mon Premier Bescherelle (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mon%20Premier%20Bescherelle%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mots Croises",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mots Croises (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mots%20Croises%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mots Croises 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mots Croises 2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mots%20Croises%202%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Nathan Anglais - Methode Pratique",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Nathan Anglais - Methode Pratique (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Nathan%20Anglais%20-%20Methode%20Pratique%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Nathan Entrainement 6e",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Nathan Entrainement 6e (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Nathan%20Entrainement%206e%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Nathan Entrainement CE1",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Nathan Entrainement CE1 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Nathan%20Entrainement%20CE1%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Nathan Entrainement CE2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Nathan Entrainement CE2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Nathan%20Entrainement%20CE2%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Nathan Entrainement CM1",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Nathan Entrainement CM1 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Nathan%20Entrainement%20CM1%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Nathan Entrainement CM2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Nathan Entrainement CM2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Nathan%20Entrainement%20CM2%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Nos Voisins, les Hommes",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Nos Voisins, les Hommes (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Nos%20Voisins%2C%20les%20Hommes%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Nouvelles Aventures de T'choupi et Ses Amis, Les",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Nouvelles Aventures de T'choupi et Ses Amis, Les (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Nouvelles%20Aventures%20de%20T%27choupi%20et%20Ses%20Amis%2C%20Les%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "One Piece - Gigant Battle!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "One Piece - Gigant Battle! (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/One%20Piece%20-%20Gigant%20Battle%21%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Oui-Oui - Grande Fete au Pays des Jouets",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Oui-Oui - Grande Fete au Pays des Jouets (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Oui-Oui%20-%20Grande%20Fete%20au%20Pays%20des%20Jouets%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Oui-Oui et le Grand Carnaval des Jouets",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Oui-Oui et le Grand Carnaval des Jouets (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Oui-Oui%20et%20le%20Grand%20Carnaval%20des%20Jouets%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Partouche Poker Tour - Poker Texas Hold'em No Limit",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Partouche Poker Tour - Poker Texas Hold'em No Limit (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Partouche%20Poker%20Tour%20-%20Poker%20Texas%20Hold%27em%20No%20Limit%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Passeport du CE1 au CE2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Passeport du CE1 au CE2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Passeport%20du%20CE1%20au%20CE2%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Passeport du CE2 au CM1",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Passeport du CE2 au CM1 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Passeport%20du%20CE2%20au%20CM1%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Passeport du CM1 au CM2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Passeport du CM1 au CM2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Passeport%20du%20CM1%20au%20CM2%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Passeport du CM2 a la 6eme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Passeport du CM2 a la 6eme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Passeport%20du%20CM2%20a%20la%206eme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Passeport du CP au CE1",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Passeport du CP au CE1 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Passeport%20du%20CP%20au%20CE1%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pekin Express - La Route de l'Himalaya",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pekin Express - La Route de l'Himalaya (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pekin%20Express%20-%20La%20Route%20de%20l%27Himalaya%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Petit Fute - Travel and Play",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Petit Fute - Travel and Play (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Petit%20Fute%20-%20Travel%20and%20Play%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pic Pic",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pic Pic (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pic%20Pic%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ping Pals",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Ping Pals (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Ping%20Pals%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Plus Belle la Vie - Le Secret du Dr Livia",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Plus Belle la Vie - Le Secret du Dr Livia (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Plus%20Belle%20la%20Vie%20-%20Le%20Secret%20du%20Dr%20Livia%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Plus Belle la Vie 2 - Le Mysterieux Passe de Vincent",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Plus Belle la Vie 2 - Le Mysterieux Passe de Vincent (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Plus%20Belle%20la%20Vie%202%20-%20Le%20Mysterieux%20Passe%20de%20Vincent%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Argent SoulSilver",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Argent SoulSilver (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Argent%20SoulSilver%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Blanche",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Blanche (France) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Blanche%20%28France%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Blanche 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Blanche 2 (France) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Blanche%202%20%28France%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Diamant",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 5"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Diamant (France) (Rev 5).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Diamant%20%28France%29%20%28Rev%205%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Noire",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Noire (France) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Noire%20%28France%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Noire 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Noire 2 (France) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Noire%202%20%28France%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Or HeartGold",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Or HeartGold (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Or%20HeartGold%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Perle",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 5"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Perle (France) (Rev 5).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Perle%20%28France%29%20%28Rev%205%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Version Platine",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Version Platine (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Version%20Platine%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Prendre ou a Laisser, A - Le Jeu Officiel",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Prendre ou a Laisser, A - Le Jeu Officiel (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Prendre%20ou%20a%20Laisser%2C%20A%20-%20Le%20Jeu%20Officiel%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professeur Layton et l'Appel du Spectre",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Demo",
+          "Kiosk"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professeur Layton et l'Appel du Spectre (France) (Demo) (Kiosk).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professeur%20Layton%20et%20l%27Appel%20du%20Spectre%20%28France%29%20%28Demo%29%20%28Kiosk%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professeur Layton et l'Appel du Spectre",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professeur Layton et l'Appel du Spectre (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professeur%20Layton%20et%20l%27Appel%20du%20Spectre%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professeur Layton et la Boite de Pandore",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Demo",
+          "Kiosk"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professeur Layton et la Boite de Pandore (France) (Demo) (Kiosk).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20%28France%29%20%28Demo%29%20%28Kiosk%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professeur Layton et la Boite de Pandore",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professeur Layton et la Boite de Pandore (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professeur Layton et le Destin Perdu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professeur Layton et le Destin Perdu (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professeur%20Layton%20et%20le%20Destin%20Perdu%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Questions pour un Champion - Le Jeu Officiel - Edition Speciale 20 Ans",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Questions pour un Champion - Le Jeu Officiel - Edition Speciale 20 Ans (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Questions%20pour%20un%20Champion%20-%20Le%20Jeu%20Officiel%20-%20Edition%20Speciale%2020%20Ans%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Real Stories - Amoureux pour la Vie",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Real Stories - Amoureux pour la Vie (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Real%20Stories%20-%20Amoureux%20pour%20la%20Vie%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Real Stories - Babies",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Real Stories - Babies (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Real%20Stories%20-%20Babies%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Real Stories - Cheval Academy",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Real Stories - Cheval Academy (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Real%20Stories%20-%20Cheval%20Academy%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Real Stories - Mission Equitation",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Real Stories - Mission Equitation (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Real%20Stories%20-%20Mission%20Equitation%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Real Stories - Mon Hotel de Reve",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Real Stories - Mon Hotel de Reve (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Real%20Stories%20-%20Mon%20Hotel%20de%20Reve%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Real Stories - Veterinaire",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Real Stories - Veterinaire (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Real%20Stories%20-%20Veterinaire%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Real Stories - Veterinaire - Mission Australie",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Real Stories - Veterinaire - Mission Australie (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Real%20Stories%20-%20Veterinaire%20-%20Mission%20Australie%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Recettes de Cuisine avec Cyril Lignac",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Recettes de Cuisine avec Cyril Lignac (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Recettes%20de%20Cuisine%20avec%20Cyril%20Lignac%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Samantha Oups! - Le Jeu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Samantha Oups! - Le Jeu (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Samantha%20Oups%21%20-%20Le%20Jeu%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Scooby-Doo! - Qui Regarde Qui",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFr"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Scooby-Doo! - Qui Regarde Qui (France) (En,Fr).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Scooby-Doo%21%20-%20Qui%20Regarde%20Qui%20%28France%29%20%28En%2CFr%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Secret Story - Le Jeu Officiel de l'Emission",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Secret Story - Le Jeu Officiel de l'Emission (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Secret%20Story%20-%20Le%20Jeu%20Officiel%20de%20l%27Emission%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Shrek - Ogres et Dranons",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Shrek - Ogres et Dranons (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Shrek%20-%20Ogres%20et%20Dranons%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Shrek le Troisieme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Shrek le Troisieme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Shrek%20le%20Troisieme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Simpson, Les - Le Jeu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Simpson, Les - Le Jeu (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Simpson%2C%20Les%20-%20Le%20Jeu%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spider-Man - Allie ou Ennemi",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spider-Man - Allie ou Ennemi (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spider-Man%20-%20Allie%20ou%20Ennemi%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spider-Man - Bataille pour New York",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spider-Man - Bataille pour New York (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spider-Man%20-%20Bataille%20pour%20New%20York%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spider-Man 3",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spider-Man 3 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spider-Man%203%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Sudokumaniacs",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Sudokumaniacs (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Sudokumaniacs%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "T'choupi et Ses Amis",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "T'choupi et Ses Amis (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/T%27choupi%20et%20Ses%20Amis%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tele 7 Jeux Inedits - Echecs",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tele 7 Jeux Inedits - Echecs (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tele%207%20Jeux%20Inedits%20-%20Echecs%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tele 7 Jeux Inedits - Mots Croises - La Selection des Meilleurs Mots Croises",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tele 7 Jeux Inedits - Mots Croises - La Selection des Meilleurs Mots Croises (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tele%207%20Jeux%20Inedits%20-%20Mots%20Croises%20-%20La%20Selection%20des%20Meilleurs%20Mots%20Croises%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tele 7 Jeux Inedits - Mots Fleches",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tele 7 Jeux Inedits - Mots Fleches (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tele%207%20Jeux%20Inedits%20-%20Mots%20Fleches%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tele 7 Jeux Inedits - Professeur Brainmaniac",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsIt"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tele 7 Jeux Inedits - Professeur Brainmaniac (France) (En,Fr,De,Es,It).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tele%207%20Jeux%20Inedits%20-%20Professeur%20Brainmaniac%20%28France%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tele 7 Jeux Inedits - Texas Hold 'em Poker Pack",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tele 7 Jeux Inedits - Texas Hold 'em Poker Pack (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tele%207%20Jeux%20Inedits%20-%20Texas%20Hold%20%27em%20Poker%20Pack%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tele 7 Jeux Inedits - WordJong",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tele 7 Jeux Inedits - WordJong (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tele%207%20Jeux%20Inedits%20-%20WordJong%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Titeuf - Le Film",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Titeuf - Le Film (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Titeuf%20-%20Le%20Film%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Touch Detective",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Touch Detective (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Touch%20Detective%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Touch Detective II",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Touch Detective II (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Touch%20Detective%20II%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Touch Mechanic",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Touch Mechanic (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Touch%20Mechanic%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir 3e - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir 3e - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%203e%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir 4e - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir 4e - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%204e%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir 5e - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir 5e - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%205e%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir 6e - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir 6e - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%206e%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir CE1 - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir CE1 - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%20CE1%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir CE2 - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir CE2 - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%20CE2%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir CM1 - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir CM1 - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%20CM1%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir CM2 - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir CM2 - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%20CM2%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir CP - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir CP - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%20CP%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout Savoir Maternelle Grande Section - L'Essentiel du Programme",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout Savoir Maternelle Grande Section - L'Essentiel du Programme (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20Savoir%20Maternelle%20Grande%20Section%20-%20L%27Essentiel%20du%20Programme%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout pour Reussir CE1",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout pour Reussir CE1 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20pour%20Reussir%20CE1%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout pour Reussir CE2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout pour Reussir CE2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20pour%20Reussir%20CE2%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout pour Reussir CM1",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout pour Reussir CM1 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20pour%20Reussir%20CM1%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout pour Reussir CM2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout pour Reussir CM2 (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20pour%20Reussir%20CM2%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tout pour Reussir CP",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tout pour Reussir CP (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tout%20pour%20Reussir%20CP%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Transformers - Autobots",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Transformers - Autobots (France) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Transformers%20-%20Autobots%20%28France%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Transformers - Autobots",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Transformers - Autobots (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Transformers%20-%20Autobots%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Transformers - Decepticons",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Transformers - Decepticons (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Transformers%20-%20Decepticons%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ultimate Spider-Man",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Ultimate Spider-Man (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Ultimate%20Spider-Man%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Vie d'Emma, La - Infirmiere de Choc",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Vie d'Emma, La - Infirmiere de Choc (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Vie%20d%27Emma%2C%20La%20-%20Infirmiere%20de%20Choc%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Viewtiful Joe - Double Trouble!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Viewtiful Joe - Double Trouble! (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Viewtiful%20Joe%20-%20Double%20Trouble%21%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Voca Mania - Ameliore Ton Vocabulaire en T'Amusant!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Voca Mania - Ameliore Ton Vocabulaire en T'Amusant! (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Voca%20Mania%20-%20Ameliore%20Ton%20Vocabulaire%20en%20T%27Amusant%21%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Warning - Code de la Route",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Warning - Code de la Route (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Warning%20-%20Code%20de%20la%20Route%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Winx Club - Rockstars",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Winx Club - Rockstars (France).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Winx%20Club%20-%20Rockstars%20%28France%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    }
+  ]
+}

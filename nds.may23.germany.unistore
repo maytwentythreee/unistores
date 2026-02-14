@@ -1,0 +1,6657 @@
+{
+  "storeInfo": {
+    "title": "'germany' myrient nds library",
+    "author": "maytwentythreee",
+    "description": "",
+    "url": "https://unistores.maytwentythreee.xyz/nds.may23.germany.unistore",
+    "file": "nds.may23.germany.unistore",
+    "revision": 20260213,
+    "version": 3
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "007 - Blood Stone",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "007 - Blood Stone (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/007%20-%20Blood%20Stone%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "007 - Ein Quantum Trost",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "007 - Ein Quantum Trost (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/007%20-%20Ein%20Quantum%20Trost%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "1 gegen 100",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "1 gegen 100 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/1%20gegen%20100%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "1001 Touch Games",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "1001 Touch Games (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/1001%20Touch%20Games%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "2 in 1 - Best Of Bibi Und Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "2 in 1 - Best Of Bibi Und Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/2%20in%201%20-%20Best%20Of%20Bibi%20Und%20Tina%20-%20Die%20Grosse%20Schnitzeljagd%20%2B%20Das%20Grosse%20Unwetter%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/2%20in%201%20-%20Best%20of%20Bibi%20Blocksberg%20-%20Neustadt%20im%20Hex-Chaos%20%2B%20Das%20Gestohlene%20Hexbuch%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "200 Klassische Buecher",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "200 Klassische Buecher (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/200%20Klassische%20Buecher%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "4 in 1 - Meine Tierarztpraxis + Meine Tierpension + Mein Gestuet + Mein Pferd",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "4 in 1 - Meine Tierarztpraxis + Meine Tierpension + Mein Gestuet + Mein Pferd (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/4%20in%201%20-%20Meine%20Tierarztpraxis%20%2B%20Meine%20Tierpension%20%2B%20Mein%20Gestuet%20%2B%20Mein%20Pferd%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "7 Wonders II",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "7 Wonders II (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/7%20Wonders%20II%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ab durch die Hecke",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Ab durch die Hecke (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Ab%20durch%20die%20Hecke%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Addy Junior - Mein Koerper",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Addy Junior - Mein Koerper (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Addy%20Junior%20-%20Mein%20Koerper%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ankh - Der Fluch des Skarabaeenkoenigs",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Ankh - Der Fluch des Skarabaeenkoenigs (Germany) (En,Fr,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Ankh%20-%20Der%20Fluch%20des%20Skarabaeenkoenigs%20%28Germany%29%20%28En%2CFr%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Anna & die Liebe",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Anna & die Liebe (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Anna%20%26%20die%20Liebe%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Avatar - Der Herr der Elemente - Die Erde Brennt",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Avatar - Der Herr der Elemente - Die Erde Brennt (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Avatar%20-%20Der%20Herr%20der%20Elemente%20-%20Die%20Erde%20Brennt%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Baby Wild Katzen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Baby Wild Katzen (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Baby%20Wild%20Katzen%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Backgammon",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Backgammon (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Backgammon%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Barnyard - Verrueckte Bauernhof-Spiele",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Barnyard - Verrueckte Bauernhof-Spiele (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Barnyard%20-%20Verrueckte%20Bauernhof-Spiele%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bastian Sick Der Dativ Ist dem Genitiv Sein Tod",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bastian Sick Der Dativ Ist dem Genitiv Sein Tod (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bastian%20Sick%20Der%20Dativ%20Ist%20dem%20Genitiv%20Sein%20Tod%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bauernhof, Der",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bauernhof, Der (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bauernhof%2C%20Der%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bee Movie - Das Game",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bee Movie - Das Game (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bee%20Movie%20-%20Das%20Game%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Benjamin Bluemchen - Ein Tag im Zoo",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Benjamin Bluemchen - Ein Tag im Zoo (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Benjamin%20Bluemchen%20-%20Ein%20Tag%20im%20Zoo%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Besser Essen - Leben Leicht Gemacht",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Besser Essen - Leben Leicht Gemacht (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Besser%20Essen%20-%20Leben%20Leicht%20Gemacht%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Best Friends - Hunde & Katzen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Best Friends - Hunde & Katzen (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Best%20Friends%20-%20Hunde%20%26%20Katzen%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bibi & Tina - Das Grosse Unwetter",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bibi & Tina - Das Grosse Unwetter (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bibi%20%26%20Tina%20-%20Das%20Grosse%20Unwetter%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bibi & Tina - Jump & Ride",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bibi & Tina - Jump & Ride (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bibi%20%26%20Tina%20-%20Jump%20%26%20Ride%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bibi Blocksberg - Das Gestohlene Hexbuch",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bibi Blocksberg - Das Gestohlene Hexbuch (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bibi%20Blocksberg%20-%20Das%20Gestohlene%20Hexbuch%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bibi Blocksberg - Der Verhexte Schloss-Schatz",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bibi Blocksberg - Der Verhexte Schloss-Schatz (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bibi%20Blocksberg%20-%20Der%20Verhexte%20Schloss-Schatz%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bibi%20Blocksberg%20-%20Grundschule%20Mathematik%20-%20Klasse%201%20bis%204%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bibi Blocksberg - Neustadt im Hex-Chaos",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bibi Blocksberg - Neustadt im Hex-Chaos (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bibi%20Blocksberg%20-%20Neustadt%20im%20Hex-Chaos%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bibliothek der Klassischen Buecher",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bibliothek der Klassischen Buecher (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bibliothek%20der%20Klassischen%20Buecher%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Biene Maja, Die - Klatschmohnwiese in Gefahr",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Biene Maja, Die - Klatschmohnwiese in Gefahr (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Biene%20Maja%2C%20Die%20-%20Klatschmohnwiese%20in%20Gefahr%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Blue Dragon - Awakened Shadow",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Blue Dragon - Awakened Shadow (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Blue%20Dragon%20-%20Awakened%20Shadow%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bratz - 4 Real",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bratz - 4 Real (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bratz%20-%204%20Real%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Bratz - Forever Diamondz",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Bratz - Forever Diamondz (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Bratz%20-%20Forever%20Diamondz%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Brigitte - ErnaehrungsCoach",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Brigitte - ErnaehrungsCoach (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Brigitte%20-%20ErnaehrungsCoach%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Call of Duty - Black Ops",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Call of Duty - Black Ops (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Call%20of%20Duty%20-%20Black%20Ops%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Call of Duty - Modern Warfare - Mobilized",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Call of Duty - Modern Warfare - Mobilized (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Call%20of%20Duty%20-%20Modern%20Warfare%20-%20Mobilized%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Call of Duty - Modern Warfare 3 - Defiance",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Call of Duty - Modern Warfare 3 - Defiance (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Call%20of%20Duty%20-%20Modern%20Warfare%203%20-%20Defiance%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Call of Duty 4 - Modern Warfare",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Call of Duty 4 - Modern Warfare (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Call%20of%20Duty%204%20-%20Modern%20Warfare%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cars",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cars (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cars%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cars - Hook International",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cars - Hook International (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cars%20-%20Hook%20International%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Clever! - Das Spiel, das Wissen Schafft",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Clever! - Das Spiel, das Wissen Schafft (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Clever%21%20-%20Das%20Spiel%2C%20das%20Wissen%20Schafft%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Club Penguin - Elite Penguin Force",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Club Penguin - Elite Penguin Force (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Club%20Penguin%20-%20Elite%20Penguin%20Force%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cornelsen Trainer - Englisch - Klasse 5 + 6",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cornelsen Trainer - Englisch - Klasse 5 + 6 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cornelsen%20Trainer%20-%20Englisch%20-%20Klasse%205%20%2B%206%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Cornelsen Trainer - Englisch - Klasse 7 + 8",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Cornelsen Trainer - Englisch - Klasse 7 + 8 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Cornelsen%20Trainer%20-%20Englisch%20-%20Klasse%207%20%2B%208%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "DTM Race Driver 3 - Create & Race",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsIt"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "DTM Race Driver 3 - Create & Race (Germany) (En,Fr,De,Es,It).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/DTM%20Race%20Driver%203%20-%20Create%20%26%20Race%20%28Germany%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Das weiss doch jedes Kind!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Das weiss doch jedes Kind! (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Das%20weiss%20doch%20jedes%20Kind%21%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Deal or No Deal",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Deal or No Deal (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Deal%20or%20No%20Deal%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Deal or No Deal - Der Banker Schlaegt Zurueck",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Deal or No Deal - Der Banker Schlaegt Zurueck (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Deal%20or%20No%20Deal%20-%20Der%20Banker%20Schlaegt%20Zurueck%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Deine Eigene Modenschau",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Beta"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Deine Eigene Modenschau (Germany) (Beta).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Deine%20Eigene%20Modenschau%20%28Germany%29%20%28Beta%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Deine Eigene Modenschau",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Deine Eigene Modenschau (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Deine%20Eigene%20Modenschau%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Deutsch 1.-4. Klasse - Fit fuers Gymnasium",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Deutsch 1.-4. Klasse - Fit fuers Gymnasium (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Deutsch%201.-4.%20Klasse%20-%20Fit%20fuers%20Gymnasium%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Deutsch 1.-4. Klasse 2012",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Deutsch 1.-4. Klasse 2012 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Deutsch%201.-4.%20Klasse%202012%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Diercke - Das Geographie-Quiz",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Diercke - Das Geographie-Quiz (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Diercke%20-%20Das%20Geographie-Quiz%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Diercke - Junior-Quiz Geographie",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Diercke - Junior-Quiz Geographie (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Diercke%20-%20Junior-Quiz%20Geographie%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Disney Friends",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Disney Friends (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Disney%20Friends%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Drachenzaehmen Leicht Gemacht",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Drachenzaehmen Leicht Gemacht (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Drachenzaehmen%20Leicht%20Gemacht%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Drei Fragezeichen, Die - Das Geheimnis der Geisterinsel",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Drei Fragezeichen, Die - Das Geheimnis der Geisterinsel (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Drei%20Fragezeichen%2C%20Die%20-%20Das%20Geheimnis%20der%20Geisterinsel%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Drei Fragezeichen, Die - Das Geheimnis der Toten",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Drei%20Fragezeichen%2C%20Die%20-%20Das%20Geheimnis%20der%20Toten%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Duden - Einfach Klasse in Deutsch - 1. und 2. Klasse",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Duden - Einfach Klasse in Deutsch - 1. und 2. Klasse (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Duden%20-%20Einfach%20Klasse%20in%20Deutsch%20-%201.%20und%202.%20Klasse%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Duden - Einfach Klasse in Deutsch - 3. und 4. Klasse",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Duden - Einfach Klasse in Deutsch - 3. und 4. Klasse (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Duden%20-%20Einfach%20Klasse%20in%20Deutsch%20-%203.%20und%204.%20Klasse%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Duden - Einfach Klasse in Mathematik - 1. und 2. Klasse",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Duden - Einfach Klasse in Mathematik - 1. und 2. Klasse (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Duden%20-%20Einfach%20Klasse%20in%20Mathematik%20-%201.%20und%202.%20Klasse%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Duden - Einfach Klasse in Mathematik - 3. und 4. Klasse",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Duden - Einfach Klasse in Mathematik - 3. und 4. Klasse (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Duden%20-%20Einfach%20Klasse%20in%20Mathematik%20-%203.%20und%204.%20Klasse%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Element Girls",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Element Girls (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Element%20Girls%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Elite Beat Agents",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Elite Beat Agents (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Elite%20Beat%20Agents%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Emergency 2012",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Emergency 2012 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Emergency%202012%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Emergency DS",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Emergency DS (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Emergency%20DS%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Emergency Kids",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Emergency Kids (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Emergency%20Kids%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Englisch Entdecken Mit Ben & Bella",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "En"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Englisch Entdecken Mit Ben & Bella (Germany) (En).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Englisch%20Entdecken%20Mit%20Ben%20%26%20Bella%20%28Germany%29%20%28En%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Englisch Macht Spass - Eine Reise nach London!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Englisch Macht Spass - Eine Reise nach London! (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Englisch%20Macht%20Spass%20-%20Eine%20Reise%20nach%20London%21%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Escape the Museum",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Escape the Museum (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Escape%20the%20Museum%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fall fuer TKKG, Ein - Detektiv Gesucht!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Fall fuer TKKG, Ein - Detektiv Gesucht! (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Fall%20fuer%20TKKG%2C%20Ein%20-%20Detektiv%20Gesucht%21%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Findet Nemo - Flucht in den Ozean",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Findet Nemo - Flucht in den Ozean (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Findet%20Nemo%20-%20Flucht%20in%20den%20Ozean%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fit for Fun - Der Interaktive Ernaehrungscoach",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Fit for Fun - Der Interaktive Ernaehrungscoach (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Fit%20for%20Fun%20-%20Der%20Interaktive%20Ernaehrungscoach%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Florist Shop",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Florist Shop (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Florist%20Shop%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fluch der Osterinsel, Der",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Fluch der Osterinsel, Der (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Fluch%20der%20Osterinsel%2C%20Der%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Franzis Gedaechtnis Trainer",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Franzis Gedaechtnis Trainer (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Franzis%20Gedaechtnis%20Trainer%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fuehrerschein Coach 2008",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Fuehrerschein Coach 2008 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Fuehrerschein%20Coach%202008%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fuehrerschein-Trainer",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Fuehrerschein-Trainer (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Fuehrerschein-Trainer%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "GEOlino PowerQuiz - Wissen fuer Kinder",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "GEOlino PowerQuiz - Wissen fuer Kinder (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/GEOlino%20PowerQuiz%20-%20Wissen%20fuer%20Kinder%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Galileo Mystery - Die Krone des Midas",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Galileo Mystery - Die Krone des Midas (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Galileo%20Mystery%20-%20Die%20Krone%20des%20Midas%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Geheimnis von Dragonville, Das - May's Mystery",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Geheimnis von Dragonville, Das - May's Mystery (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Geheimnis%20von%20Dragonville%2C%20Das%20-%20May%27s%20Mystery%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Germany's Next Topmodel - Das Offizielle Spiel zur Show",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Germany's Next Topmodel - Das Offizielle Spiel zur Show (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Germany%27s%20Next%20Topmodel%20-%20Das%20Offizielle%20Spiel%20zur%20Show%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2009",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2009 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Germany%27s%20Next%20Topmodel%20-%20Das%20Offizielle%20Spiel%20zur%20Staffel%202009%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2010",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2010 (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Germany%27s%20Next%20Topmodel%20-%20Das%20Offizielle%20Spiel%20zur%20Staffel%202010%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Germany's Next Topmodel - Das offizielle Spiel zur Staffel 2011!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Germany's Next Topmodel - Das offizielle Spiel zur Staffel 2011! (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Germany%27s%20Next%20Topmodel%20-%20Das%20offizielle%20Spiel%20zur%20Staffel%202011%21%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Gesundheits Coach, Der - Wohlfuehlen Jeden Tag",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Gesundheits Coach, Der - Wohlfuehlen Jeden Tag (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Gesundheits%20Coach%2C%20Der%20-%20Wohlfuehlen%20Jeden%20Tag%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Gina-Lisa Powershopping",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Gina-Lisa Powershopping (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Gina-Lisa%20Powershopping%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "GoldenEye 007",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "GoldenEye 007 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/GoldenEye%20007%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "GripsKids - Deutsch",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "GripsKids - Deutsch (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/GripsKids%20-%20Deutsch%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "GripsKids - Sachkunde",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "GripsKids - Sachkunde (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/GripsKids%20-%20Sachkunde%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Grosse Tagesschau Quiz, Das",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Grosse Tagesschau Quiz, Das (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Grosse%20Tagesschau%20Quiz%2C%20Das%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Grundschule - 1.-4. Klasse - Fit fuers Gymnasium - 2014",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Grundschule - 1.-4. Klasse - Fit fuers Gymnasium - 2014 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Grundschule%20-%201.-4.%20Klasse%20-%20Fit%20fuers%20Gymnasium%20-%202014%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Grundschule 1.-4. Klasse - Fit fuers Gymnasium",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Grundschule 1.-4. Klasse - Fit fuers Gymnasium (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Grundschule%201.-4.%20Klasse%20-%20Fit%20fuers%20Gymnasium%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Grundschule 1.-4. Klasse - Fit fuers Gymnasium 2010",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Grundschule 1.-4. Klasse - Fit fuers Gymnasium 2010 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Grundschule%201.-4.%20Klasse%20-%20Fit%20fuers%20Gymnasium%202010%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Grundschule 1.-4. Klasse - Fit fuers Gymnasium 2012",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Grundschule 1.-4. Klasse - Fit fuers Gymnasium 2012 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Grundschule%201.-4.%20Klasse%20-%20Fit%20fuers%20Gymnasium%202012%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Grundschule 1.-4. Klasse - Fit fuers Gymnasium 2013",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Grundschule 1.-4. Klasse - Fit fuers Gymnasium 2013 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Grundschule%201.-4.%20Klasse%20-%20Fit%20fuers%20Gymnasium%202013%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "HMH Vokabeltrainer - Englisch",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "HMH Vokabeltrainer - Englisch (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/HMH%20Vokabeltrainer%20-%20Englisch%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "HMH Vokabeltrainer - Franzoesisch",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "HMH Vokabeltrainer - Franzoesisch (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/HMH%20Vokabeltrainer%20-%20Franzoesisch%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "HMH Vokabeltrainer - Spanisch",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "HMH Vokabeltrainer - Spanisch (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/HMH%20Vokabeltrainer%20-%20Spanisch%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Harry Potter und der Halbblut-Prinz",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Harry Potter und der Halbblut-Prinz (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Harry%20Potter%20und%20der%20Halbblut-Prinz%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Haus Anubis, Das - Das Geheimnis des Osiris",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Haus Anubis, Das - Das Geheimnis des Osiris (Germany) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Haus%20Anubis%2C%20Das%20-%20Das%20Geheimnis%20des%20Osiris%20%28Germany%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Haus Anubis, Das - Das Geheimnis des Osiris",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Haus Anubis, Das - Das Geheimnis des Osiris (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Haus%20Anubis%2C%20Das%20-%20Das%20Geheimnis%20des%20Osiris%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Haus Anubis, Das - Im Bann der Isis",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Haus Anubis, Das - Im Bann der Isis (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Haus%20Anubis%2C%20Das%20-%20Im%20Bann%20der%20Isis%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hello Kitty - Daily",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hello Kitty - Daily (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hello%20Kitty%20-%20Daily%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hexe Lilli Entdeckt Europa",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hexe Lilli Entdeckt Europa (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hexe%20Lilli%20Entdeckt%20Europa%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hidden Mysteries - Buckingham Palace - Auf den Spuren der Royals",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hidden Mysteries - Buckingham Palace - Auf den Spuren der Royals (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hidden%20Mysteries%20-%20Buckingham%20Palace%20-%20Auf%20den%20Spuren%20der%20Royals%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hidden Mysteries - Salem Secrets",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hidden Mysteries - Salem Secrets (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hidden%20Mysteries%20-%20Salem%20Secrets%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hidden Mysteries - Titanic",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hidden Mysteries - Titanic (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hidden%20Mysteries%20-%20Titanic%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hidden Mysteries - Vampire Secrets",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hidden Mysteries - Vampire Secrets (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hidden%20Mysteries%20-%20Vampire%20Secrets%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Home Designer - Perfekt Gestylte Zimmer",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Home Designer - Perfekt Gestylte Zimmer (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Home%20Designer%20-%20Perfekt%20Gestylte%20Zimmer%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hotel Deluxe - Greif nach den Sternen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hotel Deluxe - Greif nach den Sternen (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hotel%20Deluxe%20-%20Greif%20nach%20den%20Sternen%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "IKOU - Intelligenztrainer fuer Kids",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "IKOU - Intelligenztrainer fuer Kids (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/IKOU%20-%20Intelligenztrainer%20fuer%20Kids%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Inazuma Eleven",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Inazuma Eleven (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Inazuma%20Eleven%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Inazuma Eleven 2 - Eissturm",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Inazuma Eleven 2 - Eissturm (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Inazuma%20Eleven%202%20-%20Eissturm%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Inazuma Eleven 2 - Feuersturm",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Inazuma Eleven 2 - Feuersturm (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Inazuma%20Eleven%202%20-%20Feuersturm%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Jane's Hotel",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Jane's Hotel (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Jane%27s%20Hotel%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Jewel Master - Cradle of Rome",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNl"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Jewel Master - Cradle of Rome (Germany) (En,Fr,De,Es,It,Nl).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Jewel%20Master%20-%20Cradle%20of%20Rome%20%28Germany%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Jewel Match & 4 Elements",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "FrDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Jewel Match & 4 Elements (Germany) (Fr,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Jewel%20Match%20%26%204%20Elements%20%28Germany%29%20%28Fr%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Jewel Quest - Expeditions",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Jewel Quest - Expeditions (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Jewel%20Quest%20-%20Expeditions%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Jewel Quest - Mysteries - 2 Tolle Wimmelbild-Abenteuer",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Jewel Quest - Mysteries - 2 Tolle Wimmelbild-Abenteuer (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Jewel%20Quest%20-%20Mysteries%20-%202%20Tolle%20Wimmelbild-Abenteuer%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Jewel Quest - Solitaire - 3 Tolle Solitaire-Spiele",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Jewel Quest - Solitaire - 3 Tolle Solitaire-Spiele (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Jewel%20Quest%20-%20Solitaire%20-%203%20Tolle%20Solitaire-Spiele%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Junior Wort-Quiz, Das",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Junior Wort-Quiz, Das (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Junior%20Wort-Quiz%2C%20Das%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "K11 - Kommissare im Einsatz",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "K11 - Kommissare im Einsatz (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/K11%20-%20Kommissare%20im%20Einsatz%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Keltis - Das Spiel von Reiner Knizia",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Keltis - Das Spiel von Reiner Knizia (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Keltis%20-%20Das%20Spiel%20von%20Reiner%20Knizia%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Knigge - Spielend zum Guten Benehmen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Knigge - Spielend zum Guten Benehmen (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Knigge%20-%20Spielend%20zum%20Guten%20Benehmen%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Knobel- und Denkspiele",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Knobel- und Denkspiele (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Knobel-%20und%20Denkspiele%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Knobel- und Denkspiele 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Knobel- und Denkspiele 2 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Knobel-%20und%20Denkspiele%202%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Kochkurs - Was Wollen Wir Heute Kochen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Kochkurs - Was Wollen Wir Heute Kochen (Germany) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Kochkurs%20-%20Was%20Wollen%20Wir%20Heute%20Kochen%20%28Germany%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Kochkurs - Was Wollen Wir Heute Kochen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Kochkurs - Was Wollen Wir Heute Kochen (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Kochkurs%20-%20Was%20Wollen%20Wir%20Heute%20Kochen%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Konzentration und Aufmerksamkeit 1.-4. Klasse",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Konzentration und Aufmerksamkeit 1.-4. Klasse (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Konzentration%20und%20Aufmerksamkeit%201.-4.%20Klasse%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Kreuzwortraetsel DS - Welt Edition",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Kreuzwortraetsel DS - Welt Edition (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Kreuzwortraetsel%20DS%20-%20Welt%20Edition%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Kung Fu Panda",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Kung Fu Panda (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Kung%20Fu%20Panda%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "LEGO Legends of Chima - Laval's Journey",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNlDa"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "LEGO Legends of Chima - Laval's Journey (Germany) (En,Fr,De,Es,It,Nl,Da).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/LEGO%20Legends%20of%20Chima%20-%20Laval%27s%20Journey%20%28Germany%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "LEGO Marvel Super Heroes - Universe in Peril",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNlDa"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "LEGO Marvel Super Heroes - Universe in Peril (Germany) (En,Fr,De,Es,It,Nl,Da).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/LEGO%20Marvel%20Super%20Heroes%20-%20Universe%20in%20Peril%20%28Germany%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "LEGO The Lord of the Rings",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeEsItNlDa"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "LEGO The Lord of the Rings (Germany) (En,Fr,De,Es,It,Nl,Da).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/LEGO%20The%20Lord%20of%20the%20Rings%20%28Germany%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lernen mit Pokemon - Tasten-Abenteuer",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lernen mit Pokemon - Tasten-Abenteuer (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lernen%20mit%20Pokemon%20-%20Tasten-Abenteuer%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lernerfolg Grundschule - Englisch",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "FrDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lernerfolg Grundschule - Englisch (Germany) (Fr,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lernerfolg%20Grundschule%20-%20Englisch%20%28Germany%29%20%28Fr%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lernerfolg Grundschule - Mathematik",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lernerfolg Grundschule - Mathematik (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lernerfolg%20Grundschule%20-%20Mathematik%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lernerfolg Grundschule - Musik - Little Amadeus",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lernerfolg Grundschule - Musik - Little Amadeus (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lernerfolg%20Grundschule%20-%20Musik%20-%20Little%20Amadeus%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lernerfolg Vorschule - Capt'n Sharky",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lernerfolg Vorschule - Capt'n Sharky (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lernerfolg%20Vorschule%20-%20Capt%27n%20Sharky%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Lernerfolg Vorschule - Prinzessin Lillifee",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Lernerfolg Vorschule - Prinzessin Lillifee (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Lernerfolg%20Vorschule%20-%20Prinzessin%20Lillifee%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Little Wingels",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Little Wingels (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Little%20Wingels%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Looney Tunes - Duck Amuck",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Looney Tunes - Duck Amuck (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Looney%20Tunes%20-%20Duck%20Amuck%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Madagascar",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Madagascar (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Madagascar%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Madagascar 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Madagascar 2 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Madagascar%202%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Maeh Jongg DS",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Maeh Jongg DS (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Maeh%20Jongg%20DS%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Magische Labyrinth, Das",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Magische Labyrinth, Das (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Magische%20Labyrinth%2C%20Das%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mah Jong Quest - Expeditions",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mah Jong Quest - Expeditions (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mah%20Jong%20Quest%20-%20Expeditions%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mahjong",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mahjong (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mahjong%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Make-up & Style",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Make-up & Style (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Make-up%20%26%20Style%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mathematik 1.-4. Klasse - Fit fuers Gymnasium",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mathematik 1.-4. Klasse - Fit fuers Gymnasium (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mathematik%201.-4.%20Klasse%20-%20Fit%20fuers%20Gymnasium%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mathematik 1.-4. Klasse 2012",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mathematik 1.-4. Klasse 2012 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mathematik%201.-4.%20Klasse%202012%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mathematik und Deutsch - 1.-4. Klasse - 2014",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mathematik und Deutsch - 1.-4. Klasse - 2014 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mathematik%20und%20Deutsch%20-%201.-4.%20Klasse%20-%202014%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mathematik und Deutsch 1.-4. Klasse 2013",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mathematik und Deutsch 1.-4. Klasse 2013 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mathematik%20und%20Deutsch%201.-4.%20Klasse%202013%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mein Beautyhotel fuer Tiere",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mein Beautyhotel fuer Tiere (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mein%20Beautyhotel%20fuer%20Tiere%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mein Franzoesisch Coach - Verbessere Dein Franzoesisch",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mein Franzoesisch Coach - Verbessere Dein Franzoesisch (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mein%20Franzoesisch%20Coach%20-%20Verbessere%20Dein%20Franzoesisch%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mein Koch-Coach - Gesund und Lecker Kochen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mein Koch-Coach - Gesund und Lecker Kochen (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mein%20Koch-Coach%20-%20Gesund%20und%20Lecker%20Kochen%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mein Traumjob - Kinderaerztin",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mein Traumjob - Kinderaerztin (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mein%20Traumjob%20-%20Kinderaerztin%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mein Wortschatz-Coach - Englisch Lernen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mein Wortschatz-Coach - Englisch Lernen (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mein%20Wortschatz-Coach%20-%20Englisch%20Lernen%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mein Wortschatz-Coach - Verbessere Dein Ausdrucksvermoegen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mein Wortschatz-Coach - Verbessere Dein Ausdrucksvermoegen (Germany) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mein%20Wortschatz-Coach%20-%20Verbessere%20Dein%20Ausdrucksvermoegen%20%28Germany%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Meine Tierarztpraxis",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Meine Tierarztpraxis (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Meine%20Tierarztpraxis%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Meine Tierarztpraxis - Einsatz auf dem Land",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Meine Tierarztpraxis - Einsatz auf dem Land (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Meine%20Tierarztpraxis%20-%20Einsatz%20auf%20dem%20Land%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Meine Tierarztpraxis in Australien",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Meine Tierarztpraxis in Australien (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Meine%20Tierarztpraxis%20in%20Australien%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Meine Tierpension",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Meine Tierpension (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Meine%20Tierpension%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Meine Tierpension - Tapsige Tierbabys",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Meine Tierpension - Tapsige Tierbabys (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Meine%20Tierpension%20-%20Tapsige%20Tierbabys%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Meine Tierpension 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Meine Tierpension 2 (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Meine%20Tierpension%202%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Meine Tierschule",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Meine Tierschule (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Meine%20Tierschule%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Midnight%20Mysteries%20-%20Gaensehaut%20Wimmelbild-Abenteuer%20mit%20Edgar%20Allan%20Poe%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mini Golf Resort",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mini Golf Resort (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mini%20Golf%20Resort%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Monsters vs Aliens",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Monsters vs Aliens (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Monsters%20vs%20Aliens%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mr. Slime Jr.",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mr. Slime Jr. (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mr.%20Slime%20Jr.%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "My Boyfriend",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "My Boyfriend (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/My%20Boyfriend%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "My Boyfriend - Der Sommer Meines Lebens",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "My Boyfriend - Der Sommer Meines Lebens (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/My%20Boyfriend%20-%20Der%20Sommer%20Meines%20Lebens%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "My Boyfriend - Verliebt in einen Star",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "My Boyfriend - Verliebt in einen Star (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/My%20Boyfriend%20-%20Verliebt%20in%20einen%20Star%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Mystery Case Files - Ravenhearst",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Mystery Case Files - Ravenhearst (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Mystery%20Case%20Files%20-%20Ravenhearst%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "One Piece - Gigant Battle!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "One Piece - Gigant Battle! (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/One%20Piece%20-%20Gigant%20Battle%21%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Operation - Vietnam",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Operation - Vietnam (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Operation%20-%20Vietnam%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Orient Quest",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Orient Quest (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Orient%20Quest%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "PONS Franzoesisch - Vokabel Buddy",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "PONS Franzoesisch - Vokabel Buddy (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/PONS%20Franzoesisch%20-%20Vokabel%20Buddy%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pferd & Pony - Best Friends - Mein Pferd",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pferd & Pony - Best Friends - Mein Pferd (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pferd%20%26%20Pony%20-%20Best%20Friends%20-%20Mein%20Pferd%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pferd & Pony - Mein Westernpferd",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pferd & Pony - Mein Westernpferd (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pferd%20%26%20Pony%20-%20Mein%20Westernpferd%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pferd & Pony - Mein Westernpferd",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnFrDeIt",
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pferd & Pony - Mein Westernpferd (Germany) (En,Fr,De,It) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pferd%20%26%20Pony%20-%20Mein%20Westernpferd%20%28Germany%29%20%28En%2CFr%2CDe%2CIt%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ping Pals",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Ping Pals (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Ping%20Pals%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Diamant-Edition",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 5"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Diamant-Edition (Germany) (Rev 5).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Diamant-Edition%20%28Germany%29%20%28Rev%205%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Goldene Edition HeartGold",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Goldene Edition HeartGold (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Goldene%20Edition%20HeartGold%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Perl-Edition",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 5"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Perl-Edition (Germany) (Rev 5).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Perl-Edition%20%28Germany%29%20%28Rev%205%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Platin-Edition",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Platin-Edition (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Platin-Edition%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Schwarze Edition",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Schwarze Edition (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Schwarze%20Edition%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Schwarze Edition 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Schwarze Edition 2 (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Schwarze%20Edition%202%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Silberne Edition SoulSilver",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Silberne Edition SoulSilver (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Silberne%20Edition%20SoulSilver%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Weisse Edition",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Weisse Edition (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Weisse%20Edition%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pokemon - Weisse Edition 2",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pokemon - Weisse Edition 2 (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pokemon%20-%20Weisse%20Edition%202%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Popstars",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Popstars (Germany) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Popstars%20%28Germany%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "PowerQuiz - Allgemeinbildung",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "PowerQuiz - Allgemeinbildung (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/PowerQuiz%20-%20Allgemeinbildung%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "PowerQuiz - Die Sport-Edition",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "PowerQuiz - Die Sport-Edition (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/PowerQuiz%20-%20Die%20Sport-Edition%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Prinzessin Lillifee - Feenzauber",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Prinzessin Lillifee - Feenzauber (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Prinzessin%20Lillifee%20-%20Feenzauber%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Prinzessin Lillifee - Meine Wunderbare Welt",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Prinzessin Lillifee - Meine Wunderbare Welt (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Prinzessin%20Lillifee%20-%20Meine%20Wunderbare%20Welt%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Prinzessin Lillifee - Spielesammlung",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Prinzessin Lillifee - Spielesammlung (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Prinzessin%20Lillifee%20-%20Spielesammlung%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professor Layton und der Ruf des Phantoms",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professor Layton und der Ruf des Phantoms (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professor%20Layton%20und%20der%20Ruf%20des%20Phantoms%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professor Layton und die Schatulle der Pandora",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Demo",
+          "Kiosk"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professor Layton und die Schatulle der Pandora (Germany) (Demo) (Kiosk).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professor%20Layton%20und%20die%20Schatulle%20der%20Pandora%20%28Germany%29%20%28Demo%29%20%28Kiosk%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professor Layton und die Schatulle der Pandora",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professor Layton und die Schatulle der Pandora (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professor%20Layton%20und%20die%20Schatulle%20der%20Pandora%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Professor Layton und die Verlorene Zukunft",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Professor Layton und die Verlorene Zukunft (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Professor%20Layton%20und%20die%20Verlorene%20Zukunft%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Puzzle City",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Puzzle City (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Puzzle%20City%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Quest Trio, The",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Quest Trio, The (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Quest%20Trio%2C%20The%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Quiz Taxi",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Quiz Taxi (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Quiz%20Taxi%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ratatouille",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Ratatouille (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Ratatouille%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Samantha Swift and the Hidden Roses of Athena",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Samantha Swift and the Hidden Roses of Athena (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Samantha%20Swift%20and%20the%20Hidden%20Roses%20of%20Athena%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Schach & Matt",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Schach & Matt (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Schach%20%26%20Matt%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Schach",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Schach (Germany) (En,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Schach%20%28Germany%29%20%28En%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Schach Attacke",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Schach Attacke (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Schach%20Attacke%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Scooby-Doo! - Wer Schaut Wem Zu",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Scooby-Doo! - Wer Schaut Wem Zu (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Scooby-Doo%21%20-%20Wer%20Schaut%20Wem%20Zu%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Shrek - Oger und Dresel",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Shrek - Oger und Dresel (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Shrek%20-%20Oger%20und%20Dresel%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Shrek der Dritte",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Shrek der Dritte (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Shrek%20der%20Dritte%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Simpsons, Die - Das Spiel",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Simpsons, Die - Das Spiel (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Simpsons%2C%20Die%20-%20Das%20Spiel%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spider-Man - Battle for New York",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spider-Man - Battle for New York (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spider-Man%20-%20Battle%20for%20New%20York%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spider-Man - Freund oder Feind",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spider-Man - Freund oder Feind (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spider-Man%20-%20Freund%20oder%20Feind%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spider-Man 3",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spider-Man 3 (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spider-Man%203%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spiegel Online - Die Wissenstrainer-Serie - Allgemeinwissen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spiegel Online - Die Wissenstrainer-Serie - Allgemeinwissen (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spiegel%20Online%20-%20Die%20Wissenstrainer-Serie%20-%20Allgemeinwissen%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spiegel Online - Die Wissenstrainer-Serie - Karriere Coach",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spiegel Online - Die Wissenstrainer-Serie - Karriere Coach (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spiegel%20Online%20-%20Die%20Wissenstrainer-Serie%20-%20Karriere%20Coach%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spiegel Online - Die Wissenstrainer-Serie - Life Coach",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spiegel Online - Die Wissenstrainer-Serie - Life Coach (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spiegel%20Online%20-%20Die%20Wissenstrainer-Serie%20-%20Life%20Coach%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spiegel Online - Die Wissenstrainer-Serie - Weltreise",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spiegel Online - Die Wissenstrainer-Serie - Weltreise (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spiegel%20Online%20-%20Die%20Wissenstrainer-Serie%20-%20Weltreise%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spielend Mathe Lernen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spielend Mathe Lernen (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spielend%20Mathe%20Lernen%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "SpongeBob und Seine Freunde - Angriff der Spielzeugroboter",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "SpongeBob und Seine Freunde - Angriff der Spielzeugroboter (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/SpongeBob%20und%20Seine%20Freunde%20-%20Angriff%20der%20Spielzeugroboter%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Spooky Story",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Spooky Story (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Spooky%20Story%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Star Wars - Battlefront - Elite Squadron",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Star Wars - Battlefront - Elite Squadron (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Star%20Wars%20-%20Battlefront%20-%20Elite%20Squadron%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Sternenschweif - Das Geheimnis im Zauberwald",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Sternenschweif - Das Geheimnis im Zauberwald (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Sternenschweif%20-%20Das%20Geheimnis%20im%20Zauberwald%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Sueddeutsche%20Zeitung%20Wissen%20-%20Mehr%20Kreuzwortraetsel%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Super Fahrschule",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Super Fahrschule (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Super%20Fahrschule%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Think - Training fuer den Kopf - Fit fuer den Job!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Think - Training fuer den Kopf - Fit fuer den Job! (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Think%20-%20Training%20fuer%20den%20Kopf%20-%20Fit%20fuer%20den%20Job%21%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Think - Training fuer den Kopf - Kids - Ist Doch Logisch!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Think - Training fuer den Kopf - Kids - Ist Doch Logisch! (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Think%20-%20Training%20fuer%20den%20Kopf%20-%20Kids%20-%20Ist%20Doch%20Logisch%21%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Think - Training fuer den Kopf - Logik Trainer - Think Again",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Think - Training fuer den Kopf - Logik Trainer - Think Again (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Think%20-%20Training%20fuer%20den%20Kopf%20-%20Logik%20Trainer%20-%20Think%20Again%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tierbabys - Meine Grosse Tierpension",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tierbabys - Meine Grosse Tierpension (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tierbabys%20-%20Meine%20Grosse%20Tierpension%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Tintenherz",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Tintenherz (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Tintenherz%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Transformers - Autobots",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "Rev 1"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Transformers - Autobots (Germany) (Rev 1).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Transformers%20-%20Autobots%20%28Germany%29%20%28Rev%201%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Transformers - Autobots",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Transformers - Autobots (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Transformers%20-%20Autobots%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Transformers - Decepticons",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Transformers - Decepticons (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Transformers%20-%20Decepticons%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Transformers - Kampf um Cybertron - Autobots",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Transformers - Kampf um Cybertron - Autobots (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Transformers%20-%20Kampf%20um%20Cybertron%20-%20Autobots%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Transformers - Kampf um Cybertron - Deceptions",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Transformers - Kampf um Cybertron - Deceptions (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Transformers%20-%20Kampf%20um%20Cybertron%20-%20Deceptions%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ultimate Spider-Man",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Ultimate Spider-Man (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Ultimate%20Spider-Man%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Um die Welt in 80 Tagen & Fishdom",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "FrDe"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Um die Welt in 80 Tagen & Fishdom (Germany) (Fr,De).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Um%20die%20Welt%20in%2080%20Tagen%20%26%20Fishdom%20%28Germany%29%20%28Fr%2CDe%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Viewtiful Joe - Double Trouble!",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Viewtiful Joe - Double Trouble! (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Viewtiful%20Joe%20-%20Double%20Trouble%21%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Vorschulspass mit Benjamin Bluemchen",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Vorschulspass mit Benjamin Bluemchen (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Vorschulspass%20mit%20Benjamin%20Bluemchen%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Willi Wills Wissen - Notruf - Retter im Einsatz",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Willi Wills Wissen - Notruf - Retter im Einsatz (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Willi%20Wills%20Wissen%20-%20Notruf%20-%20Retter%20im%20Einsatz%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Winnetoons - Die Legende vom Schatz im Silbersee",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Winnetoons - Die Legende vom Schatz im Silbersee (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Winnetoons%20-%20Die%20Legende%20vom%20Schatz%20im%20Silbersee%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Winx Club - Rockstars",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Winx Club - Rockstars (Germany).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Winx%20Club%20-%20Rockstars%20%28Germany%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    }
+  ]
+}

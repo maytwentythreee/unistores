@@ -1,0 +1,68 @@
+{
+  "storeInfo": {
+    "title": "'brazil' myrient nds library",
+    "author": "maytwentythreee",
+    "description": "",
+    "url": "https://unistores.maytwentythreee.xyz/nds.may23.brazil.unistore",
+    "file": "nds.may23.brazil.unistore",
+    "revision": 20260213,
+    "version": 3
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "Barbie - Groom and Glam Pups",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnEsPt"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Barbie - Groom and Glam Pups (Brazil) (En,Es,Pt).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Barbie%20-%20Groom%20and%20Glam%20Pups%20%28Brazil%29%20%28En%2CEs%2CPt%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hot Wheels - Track Attack",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "EnEsPt",
+          "NDSi Enhanced"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hot Wheels - Track Attack (Brazil) (En,Es,Pt) (NDSi Enhanced).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hot%20Wheels%20-%20Track%20Attack%20%28Brazil%29%20%28En%2CEs%2CPt%29%20%28NDSi%20Enhanced%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    }
+  ]
+}
