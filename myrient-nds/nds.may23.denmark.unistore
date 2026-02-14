@@ -1,0 +1,391 @@
+{
+  "storeInfo": {
+    "title": "'denmark' myrient nds library",
+    "author": "maytwentythreee",
+    "description": "",
+    "url": "https://unistores.maytwentythreee.xyz/nds.may23.denmark.unistore",
+    "file": "nds.may23.denmark.unistore",
+    "revision": 20260213,
+    "version": 3
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "Flunkerne Pirater",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Flunkerne Pirater (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Flunkerne%20Pirater%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hugo - Den forsvundne Kaempe",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hugo - Den forsvundne Kaempe (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hugo%20-%20Den%20forsvundne%20Kaempe%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Hugo - Kampen om Krystalkortet",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Hugo - Kampen om Krystalkortet (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Hugo%20-%20Kampen%20om%20Krystalkortet%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Orla Froesnapper",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Orla Froesnapper (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Orla%20Froesnapper%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pixeline - Hotel Skrottenborg",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pixeline - Hotel Skrottenborg (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pixeline%20-%20Hotel%20Skrottenborg%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pixeline - Jungleskatten",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pixeline - Jungleskatten (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pixeline%20-%20Jungleskatten%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pixeline - Magi i Pixieland",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pixeline - Magi i Pixieland (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pixeline%20-%20Magi%20i%20Pixieland%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pixeline - Skole-Hjaelp - Laer at Stave - Stavning eller Kaos",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pixeline - Skole-Hjaelp - Laer at Stave - Stavning eller Kaos (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pixeline%20-%20Skole-Hjaelp%20-%20Laer%20at%20Stave%20-%20Stavning%20eller%20Kaos%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pixeline - Skole-hjaelp - Dansk - Kaos i Kommakoebing",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pixeline - Skole-hjaelp - Dansk - Kaos i Kommakoebing (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pixeline%20-%20Skole-hjaelp%20-%20Dansk%20-%20Kaos%20i%20Kommakoebing%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pixeline - Skole-hjaelp - Engelsk - Goes to London",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pixeline - Skole-hjaelp - Engelsk - Goes to London (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pixeline%20-%20Skole-hjaelp%20-%20Engelsk%20-%20Goes%20to%20London%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pixeline - Skole-hjaelp - Matematik - Taager over Talstrup",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pixeline - Skole-hjaelp - Matematik - Taager over Talstrup (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pixeline%20-%20Skole-hjaelp%20-%20Matematik%20-%20Taager%20over%20Talstrup%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Pixeline og Droemmespejlet",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Pixeline og Droemmespejlet (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Pixeline%20og%20Droemmespejlet%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Silke - Pixelines Lillesoester - Hoensefoedder og Guleroedder",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Silke - Pixelines Lillesoester - Hoensefoedder og Guleroedder (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Silke%20-%20Pixelines%20Lillesoester%20-%20Hoensefoedder%20og%20Guleroedder%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Silke - Pixelines Lillesoester - Syng, Leg og Laer",
+        "author": "myrient",
+        "description": "",
+        "category": [
+          "caegory yes category!!!11!!"
+        ],
+        "console": [
+          "nds"
+        ],
+        "version": "1.0"
+      },
+      "Silke - Pixelines Lillesoester - Syng, Leg og Laer (Denmark).zip": [
+        {
+          "type": "downloadFile",
+          "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/Silke%20-%20Pixelines%20Lillesoester%20-%20Syng%2C%20Leg%20og%20Laer%20%28Denmark%29.zip",
+          "output": "sdmc:/temp.zip"
+        },
+        {
+          "type": "extractFile",
+          "file": "sdmc:/temp.zip",
+          "input": "",
+          "output": "%nds%"
+        }
+      ]
+    }
+  ]
+}
